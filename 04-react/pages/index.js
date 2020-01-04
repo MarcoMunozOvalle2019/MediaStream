@@ -20,8 +20,8 @@ Take a look at the MyApp component, you should not modify it.
 
 NOTE: You can use ES7+ here and install any library not tied to React.
 Example:
-- lodash: OK
-- react-dates: NOPEE
+- lodash: bien
+- react-dates: NOPE
 `);
 
 import React from 'react';
